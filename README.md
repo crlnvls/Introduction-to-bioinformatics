@@ -1,3 +1,3 @@
 # 🧬 Introduction to Bioinformatics
 
-<a href="/Database/README.md">Intro to databases</a>
+<a href="https://github.com/crlnvls/Introduction-to-bioinformatics/tree/main/database">Intro to databases</a>
