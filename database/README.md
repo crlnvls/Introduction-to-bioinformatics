@@ -17,4 +17,17 @@ Databases provide **schemas** and **metadata** that allow for a quick search of 
 - Schemas: describes how to organise the data
 - Metadata: holds structural and statistical information
 
+## Data consistency
+
+- Store, retrieve and update data
+- Get metadata
+- Backups and restore
+- Access a database remotely
+- Check the rules for data consistency automatically
+
+
+
+
+
+
 
